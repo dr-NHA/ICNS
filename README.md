@@ -1,2 +1,0 @@
-# ICNS
-. NHAPCM
